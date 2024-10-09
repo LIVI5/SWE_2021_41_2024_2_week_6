@@ -1,6 +1,6 @@
 # SWE_2021_41_2024_2_week_6
 ---
-### 👋 Hi, I’m @LIVI5, I'm learning about **Open Source Software** and trying to ues _Markdown_! 
+### 👋 Hi, I’m @LIVI5, I'm learning about **Open Source Software** and trying to use _Markdown_! 
 #### 🌱 I will explain my assignment from week4 and week5!
 <br>
 
