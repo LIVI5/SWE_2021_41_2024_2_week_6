@@ -76,20 +76,20 @@ def isHappy(n):
 ### Code
 ---
 
-> ```docker
+> ```bash
 >docker exec <ossp_container> cat /etc/os-release
 >```
 > - <ossp_container> 내에서 운영 체제 정보를 출력합니다.
 <br>
 
-> ```docker
+> ```bash
 >docker exec <ossp_container> git --version
 >docker exec <ossp_container> python3 --version
 >```
 > - <ossp_container> 에 있는 git과 python3의 버전을 출력합니다.
 <br>
 
-> ```docker
+> ```bash
 >docker inspect --format="{{ .HostConfig.Binds }}" <ossp_container>
 >```
 > - 호스트 파일 시스템과 컨테이너 간의 바인드 마운트를 출력 포멧에 따라 출력합니다.
